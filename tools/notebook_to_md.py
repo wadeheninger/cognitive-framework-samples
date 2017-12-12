@@ -20,7 +20,7 @@ def notebook_to_md(nbfile, output_dir):
             docs_meta[key] = meta[key]
 
     if len(docs_meta) > 0:
-        docs_meta_md = '\n'.join(['---'] + [':'.join(kv) for kv in docs_meta.items()] + ['---'])
+        docs_meta_md = '\n'.join(['---'] + [': '.join(kv) for kv in docs_meta.items()] + ['---'])
         mdtext = docs_meta_md + '\n' + mdtext
 
     writer = nbconvert.writers.FilesWriter()
