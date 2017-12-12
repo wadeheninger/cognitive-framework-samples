@@ -1,3 +1,3 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/drdarshan/cognitive-framework-samples/master)
-# cognitive-framework-samples
-Samples and walkthroughs of various Microsoft Cognitive Services. To run them, simply click on the `Launch Binder` badge on the top of this page!
+# Interactive Jupyter notebooks for Microsoft Cognitive Services 
+This repository contains Jupyter notebooks that illustrate various features of Microsoft Cognitive Services. To run the notebooks, simply click on the [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/drdarshan/cognitive-framework-samples/master) badge!
